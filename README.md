@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Data Engineer at PwC Australia<br>- I am highly skilled in Python, SQL, Data Analytics, ETL/ELT transformations and BI Tools<br>- I am currently learning GCP cloud, Databricks, and Snowflake
+<br>- Data Engineer at PwC Australia<br>- I am highly skilled in Python, SQL, Data Analytics, ETL/ELT transformations and BI Tools<br>- I am currently learning GCP cloud, Databricks, and Snowflake
 
 
 ## 🌐 Socials:
